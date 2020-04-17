@@ -1,4 +1,4 @@
-FROM 9-jdk14-openjdk-oracle
+FROM tomcat:9-jdk14-openjdk-oracle
 
 Maintainer Imran Khan <khanmech26@gmail.com>
 
